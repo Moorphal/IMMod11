@@ -1,0 +1,10 @@
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\bin\Debug\lab14.exe.config
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\bin\Debug\lab14.exe
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\bin\Debug\lab14.pdb
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab14.Properties.Resources.resources
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab14.exe
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab14.pdb
+D:\Имитационное моделирование\11Лабораторная\lab11\lab11\obj\Debug\lab11.Form1.resources
